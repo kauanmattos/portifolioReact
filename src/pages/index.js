@@ -2,7 +2,6 @@
 
 import Menu from "@/components/menu/menu"
 import Footer from "@/components/footer/footer";
-import About from "@/components/about/about";
 import Hero from "@/components/hero/hero";
 
 function Home() {
@@ -10,7 +9,7 @@ function Home() {
     <div>
       <Menu></Menu>
       <Hero></Hero>
-      <About></About>
+      <projectsData></projectsData>
       <Footer></Footer>
    </div>
     
