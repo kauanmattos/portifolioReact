@@ -7,7 +7,7 @@ const Menu = () => {
             <ul className="flex justify-around">
                 <li><a href="#inicio" className="hover:text-black">Início</a></li> 
                 <li><a href="#projetos" className="hover:text-black">Projetos</a></li> 
-                <li><a href="#sobre" className="hover:text-black">Sobre</a></li>
+                <li><a href="#about" className="hover:text-black">Sobre</a></li>
                 <li><a href="#contato" className="hover:text-black">Contato</a></li>
             </ul>
         </nav>
