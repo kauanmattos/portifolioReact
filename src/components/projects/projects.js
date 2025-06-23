@@ -1,5 +1,3 @@
-import ProjectCard from "../projectCard/projectCard";
-
 const projects = [
   {
     id: 1,
