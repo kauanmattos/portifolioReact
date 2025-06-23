@@ -7,7 +7,7 @@ const Hero = () => {
         >
             <div className="text-center bg-orange-700 bg-opacity-50 p-4 rounded">
             <h1 className="text-5xl font-bold mb-4">Bem vindo ao Meu Portfólio!</h1>
-            <p className="text-xl">Desenvolvendo soluções criativas e inovadoras.</p>
+            <p className="text-xl">Kauan Mattos</p>
             </div>
         </section>
     );
