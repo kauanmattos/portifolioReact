@@ -1,5 +1,5 @@
 const habilidades = [
-  'HTML', 'CSS', 'JavaScript', 'React', 'Adobe',
+  'HTML', 'CSS', 'JavaScript', 'Spline', 'Adobe',
   'Node.js', 'Figma', 'Git & GitHub', 'CSS'
 ];
 
